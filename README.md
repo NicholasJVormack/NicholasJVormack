@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Exploring Unity for MMORPG development while deepening my knowledge in full-stack technologies like HTML, JavaScript, and Python. 
+- 🌱 I’m currently learning C#. 
+- 👯 I’m looking to collaborate on an MMORPG long-term.
+- 💬 Ask me about my MBA and B.S. in Computer Science
+- ⚡ Fun fact: "A delayed game is eventually good, but a rushed game is forever bad." -Shigeru Miyamoto
 <!--
 **NicholasJVormack/NicholasJVormack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
